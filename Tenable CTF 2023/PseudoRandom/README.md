@@ -2,6 +2,7 @@ PseudoRandom
 ---
 
 **Code**:
+```python
 import random
 import time
 import datetime  
@@ -32,3 +33,4 @@ cipher = AES.new(key, AES.MODE_CBC, iv)
 ciphertext = cipher.encrypt(flag)
 
 print(base64.b64encode(ciphertext).decode('utf-8'))
+```
