@@ -34,3 +34,9 @@ ciphertext = cipher.encrypt(flag)
 
 print(base64.b64encode(ciphertext).decode('utf-8'))
 ```
+
+**Output**:
+```
+Flag Encrypted on 2023-08-02 10:27
+lQbbaZbwTCzzy73Q+0sRVViU27WrwvGoOzPv66lpqOWQLSXF9M8n24PE5y4K2T6Y
+```
