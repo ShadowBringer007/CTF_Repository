@@ -1,6 +1,6 @@
 PseudoRandom
 ---
-
+We were given the following code and output. Find our mistake and tell us the flag.
 **Code**:
 ```python
 import random
