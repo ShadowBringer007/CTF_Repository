@@ -22,3 +22,6 @@ With this Knowledge. We can also determine the length of the flag since the encr
 Now comes the solution for the challenge. First from the breakdown of the challenge, we know the seed is possibly a number from 0-1336 and the length of the flag is 61 characters<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/dcdc50e7-f8ba-415f-b741-e1def20a8b18)
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/877dbc5c-25a3-4530-85f8-63a59c757775)
+<br/>
+I generated a list of 61 numbers in an array to help map the string from output.txt to their correct spots.<br/>
+
