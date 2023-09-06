@@ -12,4 +12,8 @@ When we lookup random.choices() it will create and array based off the flag inpu
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/4a060767-5dc1-4e45-9ec5-b6982428fca9)
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/76633b95-4b35-48ee-a9a7-115e995d6645)
 <br/>
-Using an example from w3school.
+Using an example from w3school.<br/>
+
+With this Knowledge. We can also determine the length of the flag since the encryption method uses the flag length to generate it massize size.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/84fa329c-6281-42d5-8f61-3d60b40dff47)
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/0cacf30c-8d0f-42fd-8090-73914bbb13fc)
