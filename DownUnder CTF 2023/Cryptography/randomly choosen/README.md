@@ -24,4 +24,15 @@ Now comes the solution for the challenge. First from the breakdown of the challe
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/877dbc5c-25a3-4530-85f8-63a59c757775)
 <br/>
 I generated a list of 61 numbers in an array to help map the string from output.txt to their correct spots.<br/>
+<br/>
+<br/>
+
+When it comes to reconstructing the flag. I will read output.txt then create a temporary array.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/e402d20f-ae2f-43eb-b475-29d35e96ce92)
+<br/>
+
+Then slowly map the output.txt string to the right position.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/3b16d785-4e34-4956-b638-0517f2032dfb)
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/e71c3917-0623-411c-bf51-297468806f92)
+reconstruction[int(out[k])] = flag[k]<br/>
 
