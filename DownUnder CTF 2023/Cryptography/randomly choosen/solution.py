@@ -11,7 +11,7 @@ for i in range(0, 1337):
     print(i)
     out = (random.choices(x, k=61*5))
     #print(out)
-    #print()
+    #input()
 
     #Reconstruction *wanna die :'( *
     reconstruction = []
