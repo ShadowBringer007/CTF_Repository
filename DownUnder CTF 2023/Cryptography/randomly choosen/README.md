@@ -25,6 +25,12 @@ Now comes the solution for the challenge. First from the breakdown of the challe
 <br/>
 I generated a list of 61 numbers in an array to help map the string from output.txt to their correct spots.<br/>
 <br/>
+
+Now I placed the seed for this position and generated the 305 character array with the numbers that were chosen for this particular seed.<br/> 
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/688e5faf-ba2c-4014-a442-cc45ee17167a)
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/04e95fda-1f77-4a4c-9b94-eac7a10553cf)
+
+
 <br/>
 
 When it comes to reconstructing the flag. I will read output.txt then create a temporary array.<br/>
