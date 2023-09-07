@@ -37,8 +37,23 @@ When it comes to reconstructing the flag. I will read output.txt then create a t
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/e402d20f-ae2f-43eb-b475-29d35e96ce92)
 <br/>
 
-Then slowly map the output.txt string to the right position.<br/>
+Then slowly map the output.txt string to the right position for each possible seed.<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/3b16d785-4e34-4956-b638-0517f2032dfb)
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/e71c3917-0623-411c-bf51-297468806f92)
+<br/>
+The reconstruction works by using the "out" array while has the value position and "flag" is the output.txt string with characters.<br/>
 reconstruction[int(out[k])] = flag[k]<br/>
+
+<br/>
+Running the entire python script it will produce the flag when the seed is 252.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8607e22f-1ba5-420d-ba93-f96a51b55748)
+
+
+
+
+
+
+
+
+
 
