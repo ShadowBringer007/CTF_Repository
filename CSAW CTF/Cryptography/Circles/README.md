@@ -22,7 +22,6 @@ Created a combination function and factorial function to generate the moser regi
 
 <br/>
 This factorial divison shorten the computation time because of how large the number is.<br/>
-![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/acbc2a8c-910f-4bc6-8db7-ab7e326c2ea1)
-
-
+With this created plugged in the decimal number and made the AES to decrypt flag.enc <br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/78a5ce23-06a4-45a9-8f51-ec4b00a67204)<br/>
 
