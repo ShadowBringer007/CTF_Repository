@@ -8,6 +8,8 @@ This diagram matches up perfectly with the title of the challenge and the initia
 On the Wikipedia page, the formula is there as well to generate the amount of regions with a certain amount of points.<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8da7825a-9130-4749-a6b2-dd98a01a0a45)<br/>
 The two portions are in the parenthesis are combination formulas.<br/>
-![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/1c8d6a36-a52f-4356-94ef-91ed97b2dc4e)<br>/
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/1c8d6a36-a52f-4356-94ef-91ed97b2dc4e)<br/>
+
+Now lets move onto the server side code used for encrypting the png.
 
 
