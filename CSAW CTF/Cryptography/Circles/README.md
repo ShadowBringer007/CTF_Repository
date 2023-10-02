@@ -21,6 +21,8 @@ Created a combination function and factorial function to generate the moser regi
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/34ce1e00-b41d-4f7d-b0ea-d5b6943b9309)<br/>
 
 <br/>
-This factorial divison shorten the computation time because of how large the number is.
+This factorial divison shorten the computation time because of how large the number is.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/acbc2a8c-910f-4bc6-8db7-ab7e326c2ea1)
+
 
 
