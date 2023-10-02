@@ -10,6 +10,9 @@ On the Wikipedia page, the formula is there as well to generate the amount of re
 The two portions are in the parenthesis are combination formulas.<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/1c8d6a36-a52f-4356-94ef-91ed97b2dc4e)<br/>
 
-Now lets move onto the server side code used for encrypting the png.
+Now lets move onto the server side code used for encrypting the png.<br/>
+First the encryption algorithm is using AES in CBC mode. The iv is given and the key is 32 bytes (256 bits) and is generated in big-endian notation.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/fa4555ee-d647-45a0-816c-34e0d505a20f)<br/>
+
 
 
