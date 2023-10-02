@@ -1,3 +1,2 @@
-# Cryptography 
+# Cricles Write up
 
-Solved Cryptography Challenges
