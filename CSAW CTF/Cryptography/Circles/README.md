@@ -20,6 +20,7 @@ My first instinct was this special function takes the hex as a number of points 
 Created a combination function and factorial function to generate the moser regions with specific points. Another thing implemented in the combination formula is factorial divsion.<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/34ce1e00-b41d-4f7d-b0ea-d5b6943b9309)<br/>
 
-
+<br/>
+This factorial divison shorten the computation time because of how large the number is.
 
 
