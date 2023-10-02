@@ -14,5 +14,12 @@ Now lets move onto the server side code used for encrypting the png.<br/>
 First the encryption algorithm is using AES in CBC mode. The iv is given and the key is 32 bytes (256 bits) and is generated in big-endian notation.<br/>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/fa4555ee-d647-45a0-816c-34e0d505a20f)<br/>
 
+<br/>
+The special function which is used, is taking a hex number as an input 0xcafed3adb3ef1e37 and in decimal 14627361382747545143.<br/>
+My first instinct was this special function takes the hex as a number of points and outputs the total regions in the circle.<br/>
+Created a combination function and factorial function to generate the moser regions with specific points. Another thing implemented in the combination formula is factorial divsion.<br/>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/34ce1e00-b41d-4f7d-b0ea-d5b6943b9309)<br/>
+
+
 
 
