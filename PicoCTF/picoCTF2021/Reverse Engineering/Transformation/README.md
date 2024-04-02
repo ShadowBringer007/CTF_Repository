@@ -19,5 +19,14 @@ The second character grabbed will then be add to the bit shifted decimal number.
 </br>
 Afterwards the number is then turned back into a character putting into the range of chinese characters and joinned to a string.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/431fdca3-e61b-4f47-9f3d-3abc343addb2)
+</br></br>
+With this knowledge bruteforcing the flag can be done quite easily. The character list will be comprised of upper and lowercase letters, symbols, and numbers.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/ee0d5021-6199-4459-b009-84f2cca73b69)</br>
 </br>
+Next created a series of nested loops to iterate through each character of and then brute-force the characters.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8456b1aa-abcb-4898-a379-ffb5cbebc88e)</br>
+Once runned the flag is produced.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/20a523ec-75e5-499a-a5a7-d93f708c52c1)
+
+
 
