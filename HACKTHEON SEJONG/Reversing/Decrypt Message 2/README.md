@@ -23,3 +23,11 @@ Now jumping into the encryptor function (renamed it), we can see alot more thing
 </br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/b4af11d2-8329-43ff-990a-05e1d8ca417f)</br>
 </br>
+
+Next I looked at the function which I assume is producing the key. With some clean up, things are easily readable. I can see that there is a list of characters the key will be chosen from. A key_string variable is made. A for loop to generate the key and a random number generator to pick the characters randomly.</br> 
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/3edee005-e675-42dd-8fff-2ead4f8c9a03)</br>
+</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/ba50dbf5-7cb4-4bb4-b9d5-d52e2b42e41d)</br>
+</br>
+
+
