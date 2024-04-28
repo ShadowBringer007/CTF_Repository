@@ -30,4 +30,7 @@ Next I looked at the function which I assume is producing the key. With some cle
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/ba50dbf5-7cb4-4bb4-b9d5-d52e2b42e41d)</br>
 </br>
 
+Going back the encryptor function, I see that the next two variables are using the same function. </br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/dbef93b4-067e-46da-9e17-1aec501cecaf)</br>
+
 
