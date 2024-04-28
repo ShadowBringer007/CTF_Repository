@@ -50,7 +50,17 @@ The first function, with some cleanup can be seen doing an xor with the string i
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/c9033c8d-0eee-4a43-9fae-03791ce9e90c)</br>
 </br>
 
-The next function is trickery to understand as its doing alot. </br>
+The next function is trickery to understand as its doing alot. With all renaming everything and rewriting the code to figure out whats going on.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/bfe26890-a3f5-4442-b12a-7cc42c786591)</br>
-![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8b4b1a57-cce1-4e5c-9c4d-45f122babd57)
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8b4b1a57-cce1-4e5c-9c4d-45f122babd57)</br>
+</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/1b4ac524-8928-4667-bd88-a5d1a9def453)</br>
+</br>
+
+</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/081b5899-4c0a-4132-93be-94f1ef169cc7)</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/88106c42-3b3e-44d1-ad68-a6cdf39e0cf7)</br>
+</br>
+
+
 
