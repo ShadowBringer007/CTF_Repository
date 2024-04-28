@@ -57,7 +57,7 @@ The next function is trickery to understand as its doing alot. With all renaming
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/1b4ac524-8928-4667-bd88-a5d1a9def453)</br>
 </br>
 
-</br>
+The python script below is a recontruction of the the function above leading me to discover that the code was doing a columnar transpostion cipher based on the key. For those who don't know what a columnar transpostion cipher take a this site.(https://www.geeksforgeeks.org/columnar-transposition-cipher/#)</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/081b5899-4c0a-4132-93be-94f1ef169cc7)</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/88106c42-3b3e-44d1-ad68-a6cdf39e0cf7)</br>
 </br>
