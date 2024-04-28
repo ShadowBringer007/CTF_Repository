@@ -37,6 +37,15 @@ Going back the encryptor function, I see that the next two variables are using t
 Looking at the function and the cleaning it up. It seems to converting the strings into a integer form.
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/0e3c7763-b875-48bc-9365-f7ce12575b7a)</br>
 </br>
-![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8d6d7f3e-9e0d-43a4-8eeb-a42fb016ec16)</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/862a227f-e00a-42b4-ab6b-4368eb3a80d5)</br>
 </br>
 
+Looking at the encryption function and doing some name changing. I can now focus on the fucntions doing the data manipulation.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8493a931-33e5-46cd-9de8-cc3afff0ef0a)</br>
+</br>
+
+The first function, with some cleanup can be seen doing an xor with the string input. 
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/792955bf-ba9c-4a41-a4c0-e597d1c9293f)</br>
+</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/c9033c8d-0eee-4a43-9fae-03791ce9e90c)</br>
+</br>
