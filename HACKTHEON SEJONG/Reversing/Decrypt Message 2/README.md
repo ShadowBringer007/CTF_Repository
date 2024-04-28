@@ -32,5 +32,11 @@ Next I looked at the function which I assume is producing the key. With some cle
 
 Going back the encryptor function, I see that the next two variables are using the same function. </br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/dbef93b4-067e-46da-9e17-1aec501cecaf)</br>
+</br>
 
+Looking at the function and the cleaning it up. It seems to converting the strings into a integer form.
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/0e3c7763-b875-48bc-9365-f7ce12575b7a)</br>
+</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8d6d7f3e-9e0d-43a4-8eeb-a42fb016ec16)</br>
+</br>
 
