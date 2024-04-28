@@ -18,7 +18,7 @@ I will begin to rename functions to make things easier to read.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/af99ac14-8230-484c-be48-d437a04edbeb)</br>
 </br>
 
-Now jumping into the encryptor function (renamed it), we can see alot more things are being done serveral functions being called. After so clean up of the function things are becoming a little easier to read.</br>
+Now jumping into the encryptor function (renamed it), we can see alot more things are happening variable assignements and functions being used. We can determine the 5 we saw at the beginning is hardcoded and will be then length of the key as the test string is divisible by 5.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/8a1f6125-bc0f-4d91-bee1-4d22f4db409d)</br>
 </br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/b4af11d2-8329-43ff-990a-05e1d8ca417f)</br>
