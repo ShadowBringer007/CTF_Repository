@@ -62,7 +62,7 @@ The python script below is a recontruction of the the function above leading me 
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/88106c42-3b3e-44d1-ad68-a6cdf39e0cf7)</br>
 </br>
 
-With this knowledge I created a python script to bruteforce the possible keys and with the possible keys. Then it would take the keys and bruteforce those keys printing out each ouput.</br>
+With this knowledge I created a python script to bruteforce the possible keys. With the possible keys it would perform the columnar transpostion cipher then xor to generate the flag.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/0dcbd654-0307-4201-98a5-d553e1c3daf7)</br>
 </br>
 
