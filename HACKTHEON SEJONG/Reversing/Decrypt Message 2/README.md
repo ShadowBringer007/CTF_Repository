@@ -62,5 +62,9 @@ The python script below is a recontruction of the the function above leading me 
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/88106c42-3b3e-44d1-ad68-a6cdf39e0cf7)</br>
 </br>
 
+With this knowledge I created a python script to bruteforce the possible keys and with the possible keys. Then it would take the keys and bruteforce those keys printing out each ouput.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/0dcbd654-0307-4201-98a5-d553e1c3daf7)</br>
+</br>
 
-
+Then submitted the answer to the portal to get the answer.</br>
+![2024-04-27 01_50_59-flag](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/c5181339-1160-42bf-a4ba-2225be9612e8)</br>
