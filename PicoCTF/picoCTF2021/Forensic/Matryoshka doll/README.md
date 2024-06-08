@@ -7,7 +7,7 @@ When using the "-e" argument, binwalk will extract file of know file types.
 </br>
 
 After extraction, and heading into the base_images directory there is another image there. With this new image I a, gonna run binwalk again.</br>
-![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/07e4a37d-23fd-4f53-985a-8def23b9a0e8)</br>
+</br>
 </br>
 
 
