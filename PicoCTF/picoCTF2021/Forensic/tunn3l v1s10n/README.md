@@ -10,5 +10,9 @@ So went I to https://people.math.sc.edu/Burkardt/data/bmp/bmp.html to get an exa
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/d21eca41-7788-4cda-8988-9b2fc570e72e)</br>
 </br>
 
+Once changing the values in the broken BMP file, it fixes the bmp file and shows a picture but not the flag. Although the image feels really small in its height.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/82a6cf2b-65a6-44af-8f38-30330cbbced5)</br>
+</br>
+
 
 
