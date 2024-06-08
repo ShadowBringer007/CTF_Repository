@@ -19,4 +19,6 @@ Looking on wikipedia for the file format (https://en.wikipedia.org/wiki/BMP_file
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/9998edf3-f915-459f-9c45-6f67a186192b)</br>
 </br>
 
+Knowing the hex values "32 01" is going to affect the height. I testing different values to get the right height. Once getting the height the flag is shown at the top of the image.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/fe75eda4-0509-42f6-9b7b-b164033f07a4)</br>
 
