@@ -14,5 +14,9 @@ Once changing the values in the broken BMP file, it fixes the bmp file and shows
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/82a6cf2b-65a6-44af-8f38-30330cbbced5)</br>
 </br>
 
+Looking on wikipedia for the file format (https://en.wikipedia.org/wiki/BMP_file_format), and specifically for Windows BITMAPINFOHEADER shows which hex values I can change for width and height.</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/e7633cc0-4b43-4c01-b3e8-c949bd97c711)</br>
+![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/9998edf3-f915-459f-9c45-6f67a186192b)</br>
+</br>
 
 
