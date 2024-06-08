@@ -1,4 +1,4 @@
-# crackme-py
+# crackme-py WriteUp
 
 Downloading the python file and opening it up. I immediately see two functions but only one is being used.</br>
 ![image](https://github.com/ShadowBringer007/CTF_Repository/assets/47370367/4a3fe638-acda-4a7a-94d0-d4cfda8bc851)</br>
